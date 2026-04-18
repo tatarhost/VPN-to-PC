@@ -1,4 +1,4 @@
-# VPN-to-PC
+# VPN-to-PC-and-ANDROID
 # ссылка на приложение пк - https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe
 # ссылка на приложение андроид - https://play.google.com/store/apps/details?id=com.v2raytun.android
 # ключ - vless://1280300d-653c-4730-b821-7e839c76cc70@151.101.131.6:443?security=tls&type=xhttp&headerType=&path=&host=rusk.com&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=2a02%3A26f0%3A5d00%3A138f%3A%3A2a1&fp=chrome&alpn=h3&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20Moscow
